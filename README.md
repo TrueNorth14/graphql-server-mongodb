@@ -13,7 +13,7 @@ const resolvers = {
     },
 };
 ```
-<br></br>
+
 Let's add Hello World as an example:
 
 ```javascript
@@ -26,7 +26,7 @@ const resolvers = {
     },
 };
 ```
-<br></br>
+
 Now in the ```./src/typedefs.js``` file we must define the Hello World model:
 
 ``` javascript
@@ -46,7 +46,7 @@ const typeDefs = gql`
 `;
 
 ```
-<br></br>
+
 **Final Remarks**
 
 If you wish to utilize the car data, make sure to run ```PopulateDb()``` once on the initial run.
