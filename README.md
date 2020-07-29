@@ -1,3 +1,5 @@
+**About**
+
 A simple yet effective GraphQL server built with Node, ExpressJS, MongoDB, Apollo, and MongooseJS. For now it serves car data, but it can be used as boilerplate to setup your GraphQL + MongoDB server. All you have to do is clone my repo and modify the TypeDefs and Resolvers to your needs.
 
 **Editing TypeDefs and Resolvers**
